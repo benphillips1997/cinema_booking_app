@@ -1,0 +1,13 @@
+username -  bookingstaff
+password -  bookingstaff
+
+username - admin
+password - admin
+
+username - manager
+password - manager
+
+
+additional libraries:
+	tktimepicker
+	tkcalendar
